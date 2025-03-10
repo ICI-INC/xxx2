@@ -5,7 +5,7 @@ function logar(){
 
     if(login = "1" && senha == "1"){ //Marcelo
         alert('Sucesso');
-        location.href = "https://ici-inc.github.io/matrix1/icitv.html"; 
+        location.href = "https://ici-inc.github.io/novidades/icitv.html"; 
     }else{
         
     }
